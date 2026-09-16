@@ -1,0 +1,831 @@
+{
+  "_readme": "Editar produtos e executar python scripts/build.py. Campos null apresentam Informação a confirmar. site_url: domínio HTTPS definitivo para canonical e Open Graph. Rascunhos originais preservados fora do catálogo público.",
+  "categorias": [
+    {
+      "slug": "jogos-encaixe",
+      "label": "Jogos de encaixe"
+    },
+    {
+      "slug": "aprendizagem",
+      "label": "Leitura e aprendizagem"
+    },
+    {
+      "slug": "autonomia-vida-diaria",
+      "label": "Apoio à autonomia"
+    },
+    {
+      "slug": "coordenacao-motricidade",
+      "label": "Coordenação e motricidade"
+    },
+    {
+      "slug": "sensorial",
+      "label": "Recursos sensoriais"
+    },
+    {
+      "slug": "outros-recursos",
+      "label": "Outros recursos educativos"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "conjunto-encaixe-rotativo",
+      "slug": "conjunto-encaixe-rotativo",
+      "nome": "Conjunto de encaixe rotativo",
+      "categoria": "jogos-encaixe",
+      "resumo": "Peças coloridas de diferentes formas para explorar encaixes e movimentos de rotação.",
+      "descricao_longa": "Peças coloridas de diferentes formas para explorar encaixes e movimentos de rotação.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/conjunto-encaixe-rotativo/01.webp",
+          "alt": "Conjunto de encaixe rotativo — vista do produto",
+          "origem": "Produtos Oficiais_2\\Imagem_1_original.png",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "src": "assets/img/produtos/conjunto-encaixe-rotativo/02.webp",
+          "alt": "Conjunto de encaixe rotativo — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\aparelho_para_locomoção_motora_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/conjunto-encaixe-rotativo/03.webp",
+          "alt": "Conjunto de encaixe rotativo — fotografia de detalhe 2",
+          "origem": "Produtos Oficiais\\aparelho_para_locomoção_motora_2.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/conjunto-encaixe-rotativo/04.webp",
+          "alt": "Conjunto de encaixe rotativo — fotografia de detalhe 3",
+          "origem": "Produtos Oficiais\\aparelho_para_locomoção_motora_3.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "jogo-formas-geometricas",
+      "slug": "jogo-formas-geometricas",
+      "nome": "Jogo de formas geométricas",
+      "categoria": "jogos-encaixe",
+      "resumo": "Formas geométricas e uma base de encaixe para atividades de correspondência.",
+      "descricao_longa": "Formas geométricas e uma base de encaixe para atividades de correspondência.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/jogo-formas-geometricas/01.webp",
+          "alt": "Jogo de formas geométricas — vista do produto",
+          "origem": "Produtos Oficiais_2\\imagem 4.png",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "src": "assets/img/produtos/jogo-formas-geometricas/02.webp",
+          "alt": "Jogo de formas geométricas — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\figuras_geométricas_1.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "regua-de-leitura",
+      "slug": "regua-de-leitura",
+      "nome": "Régua de leitura",
+      "categoria": "aprendizagem",
+      "resumo": "Uma janela de leitura para acompanhar uma linha de texto de cada vez.",
+      "descricao_longa": "Uma janela de leitura para acompanhar uma linha de texto de cada vez.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/regua-de-leitura/01.webp",
+          "alt": "Régua de leitura — vista do produto",
+          "origem": "Produtos Oficiais_2\\Imagem_8_Regua_leitura.png",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "src": "assets/img/produtos/regua-de-leitura/02.webp",
+          "alt": "Régua de leitura — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\regua_para_foco_em_leitura_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/regua-de-leitura/03.webp",
+          "alt": "Régua de leitura — fotografia de detalhe 2",
+          "origem": "Produtos Oficiais\\regua_para_foco_em_leitura_2.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "adaptador-para-garfo",
+      "slug": "adaptador-para-garfo",
+      "nome": "Adaptador para garfo",
+      "categoria": "autonomia-vida-diaria",
+      "resumo": "Um recurso de apoio ao manuseio do garfo nas rotinas de alimentação.",
+      "descricao_longa": "Um recurso de apoio ao manuseio do garfo nas rotinas de alimentação.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/adaptador-para-garfo/01.webp",
+          "alt": "Adaptador para garfo — vista do produto",
+          "origem": "Produtos Oficiais_2\\Imagem_Garfo.png",
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "numeros-e-aprendizagem",
+      "slug": "numeros-e-aprendizagem",
+      "nome": "Números e aprendizagem",
+      "categoria": "aprendizagem",
+      "resumo": "Números de encaixe e elementos de contagem para explorar quantidades.",
+      "descricao_longa": "Números de encaixe e elementos de contagem para explorar quantidades.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/numeros-e-aprendizagem/01.webp",
+          "alt": "Números e aprendizagem — vista do produto",
+          "origem": "Produtos Oficiais_2\\Imagem 9.png",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "src": "assets/img/produtos/numeros-e-aprendizagem/02.webp",
+          "alt": "Números e aprendizagem — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\WhatsApp Image 2026-09-10 at 11.30.41.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/numeros-e-aprendizagem/03.webp",
+          "alt": "Números e aprendizagem — fotografia de detalhe 2",
+          "origem": "Produtos Oficiais\\WhatsApp Image 2026-09-10 at 11.30.42.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "quebra-cabecas",
+      "slug": "quebra-cabecas",
+      "nome": "Quebra-cabeças",
+      "categoria": "coordenacao-motricidade",
+      "resumo": "Peças coloridas para combinar, experimentar e organizar numa base.",
+      "descricao_longa": "Peças coloridas para combinar, experimentar e organizar numa base.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/quebra-cabecas/01.webp",
+          "alt": "Quebra-cabeças — vista do produto",
+          "origem": "Produtos Oficiais_2\\Imagem 7.png",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "src": "assets/img/produtos/quebra-cabecas/02.webp",
+          "alt": "Quebra-cabeças — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\quebra-cabeça_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/quebra-cabecas/03.webp",
+          "alt": "Quebra-cabeças — fotografia de detalhe 2",
+          "origem": "Produtos Oficiais\\quebra-cabeça_2.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "dinossauros-de-equilibrio",
+      "slug": "dinossauros-de-equilibrio",
+      "nome": "Dinossauros de equilíbrio",
+      "categoria": "coordenacao-motricidade",
+      "resumo": "Figuras de dinossauros e uma base curva para explorar o equilíbrio.",
+      "descricao_longa": "Figuras de dinossauros e uma base curva para explorar o equilíbrio.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/dinossauros-de-equilibrio/01.webp",
+          "alt": "Dinossauros de equilíbrio — vista do produto",
+          "origem": "Produtos Oficiais_2\\Imagem 6.png",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "src": "assets/img/produtos/dinossauros-de-equilibrio/02.webp",
+          "alt": "Dinossauros de equilíbrio — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\quebra_cabeça_equilbrista_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/dinossauros-de-equilibrio/03.webp",
+          "alt": "Dinossauros de equilíbrio — fotografia de detalhe 2",
+          "origem": "Produtos Oficiais\\quebra_cabeça_equilbrista_2.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "estojo-para-cartas",
+      "slug": "estojo-para-cartas",
+      "nome": "Estojo para cartas",
+      "categoria": "outros-recursos",
+      "resumo": "Um estojo com tampa para guardar e transportar cartas.",
+      "descricao_longa": "Um estojo com tampa para guardar e transportar cartas.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/estojo-para-cartas/01.webp",
+          "alt": "Estojo para cartas — vista do produto",
+          "origem": "Produtos Oficiais_2\\Imagem 5.png",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "src": "assets/img/produtos/estojo-para-cartas/02.webp",
+          "alt": "Estojo para cartas — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\porta_Cartas_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/estojo-para-cartas/03.webp",
+          "alt": "Estojo para cartas — fotografia de detalhe 2",
+          "origem": "Produtos Oficiais\\porta_cartas_2.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "fidget-azul",
+      "slug": "fidget-azul",
+      "nome": "Fidget articulado azul",
+      "categoria": "sensorial",
+      "resumo": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "descricao_longa": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/fidget-azul/01.webp",
+          "alt": "Fidget articulado azul — vista do produto",
+          "origem": "Produtos Oficiais\\fidget_toy_azul_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/fidget-azul/02.webp",
+          "alt": "Fidget articulado azul — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\fidget_toy_azul_2.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "fidget-estrela",
+      "slug": "fidget-estrela",
+      "nome": "Fidget estrela",
+      "categoria": "sensorial",
+      "resumo": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "descricao_longa": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/fidget-estrela/01.webp",
+          "alt": "Fidget estrela — vista do produto",
+          "origem": "Produtos Oficiais\\estrela.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/fidget-estrela/02.webp",
+          "alt": "Fidget estrela — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\estrela 2.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "fidget-sanfona",
+      "slug": "fidget-sanfona",
+      "nome": "Fidget sanfona",
+      "categoria": "sensorial",
+      "resumo": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "descricao_longa": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/fidget-sanfona/01.webp",
+          "alt": "Fidget sanfona — vista do produto",
+          "origem": "Produtos Oficiais\\fidget_toy_black_safona_1.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "fidget-espiral-verde",
+      "slug": "fidget-espiral-verde",
+      "nome": "Fidget espiral verde",
+      "categoria": "sensorial",
+      "resumo": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "descricao_longa": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/fidget-espiral-verde/01.webp",
+          "alt": "Fidget espiral verde — vista do produto",
+          "origem": "Produtos Oficiais\\fidget_toy_verde_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/fidget-espiral-verde/02.webp",
+          "alt": "Fidget espiral verde — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\fidget_toy_verde_2.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/fidget-espiral-verde/03.webp",
+          "alt": "Fidget espiral verde — fotografia de detalhe 2",
+          "origem": "Produtos Oficiais\\fidget_toy_verde_touch_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/fidget-espiral-verde/04.webp",
+          "alt": "Fidget espiral verde — fotografia de detalhe 3",
+          "origem": "Produtos Oficiais\\fidget_toy_verde_touch_2.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "fidget-tatil-verde",
+      "slug": "fidget-tatil-verde",
+      "nome": "Fidget tátil verde",
+      "categoria": "sensorial",
+      "resumo": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "descricao_longa": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/fidget-tatil-verde/01.webp",
+          "alt": "Fidget tátil verde — vista do produto",
+          "origem": "Produtos Oficiais\\fidget_toy_verde_touch_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/fidget-tatil-verde/02.webp",
+          "alt": "Fidget tátil verde — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\fidget_toy_verde_touch_2.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "fidget-cavalo",
+      "slug": "fidget-cavalo",
+      "nome": "Fidget cavalo",
+      "categoria": "sensorial",
+      "resumo": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "descricao_longa": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/fidget-cavalo/01.webp",
+          "alt": "Fidget cavalo — vista do produto",
+          "origem": "Produtos Oficiais\\fidget_toy_cavalo_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/fidget-cavalo/02.webp",
+          "alt": "Fidget cavalo — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\fidget_toy_cavalo_2.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "fidget-cinza",
+      "slug": "fidget-cinza",
+      "nome": "Fidget articulado cinzento",
+      "categoria": "sensorial",
+      "resumo": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "descricao_longa": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/fidget-cinza/01.webp",
+          "alt": "Fidget articulado cinzento — vista do produto",
+          "origem": "Produtos Oficiais\\fidget_toy_cinza_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/fidget-cinza/02.webp",
+          "alt": "Fidget articulado cinzento — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\fidget_toy_cinza_2.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    },
+    {
+      "id": "fidget-espiral-vermelho",
+      "slug": "fidget-espiral-vermelho",
+      "nome": "Fidget espiral vermelho",
+      "categoria": "sensorial",
+      "resumo": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "descricao_longa": "Recurso manipulável para momentos de exploração tátil e movimento.",
+      "imagens": [
+        {
+          "src": "assets/img/produtos/fidget-espiral-vermelho/01.webp",
+          "alt": "Fidget espiral vermelho — vista do produto",
+          "origem": "Produtos Oficiais\\fidget_toy_espiral_vermelho_1.jpeg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "assets/img/produtos/fidget-espiral-vermelho/02.webp",
+          "alt": "Fidget espiral vermelho — fotografia de detalhe 1",
+          "origem": "Produtos Oficiais\\fidget_toy_espiral_vermelho_2.jpeg",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "is_placeholder": false,
+      "beneficios": [],
+      "finalidade": null,
+      "publico": null,
+      "material": null,
+      "dimensoes": null,
+      "cores_disponiveis": [],
+      "cuidados": null,
+      "preco": null,
+      "preco_label": "Preço sob consulta",
+      "disponibilidade": null,
+      "stock": null,
+      "personalizacao": null,
+      "prazo_producao": null
+    }
+  ],
+  "rascunhos_originais": [
+    {
+      "id": "ph-01",
+      "slug": "conjunto-encaixe-rotativo",
+      "categoria": "coordenacao-motricidade",
+      "nome": "[PLACEHOLDER] Conjunto de Encaixe Rotativo",
+      "resumo": "Peças de encaixe pensadas para praticar pinça, rotação de pulso e coordenação bimanual.",
+      "descricao_longa": "Conjunto modular de peças que se encaixam por rotação, pensado para apoiar o exercício de movimentos finos e amplos das mãos em contextos lúdicos e educativos. Produzido em impressão 3D, permite variações de tamanho e resistência de encaixe conforme a necessidade.",
+      "finalidade": "Apoiar a prática de coordenação motora fina e ampla em atividades guiadas.",
+      "publico": "Uso geral — crianças, adolescentes e adultos, conforme orientação de educadores, terapeutas ou familiares.",
+      "cores_disponiveis": [
+        "Amarelo mostarda",
+        "Azul petróleo",
+        "Verde"
+      ],
+      "material": "PLA atóxico, impressão 3D",
+      "dimensoes": "Aprox. 12 × 12 × 4 cm (varia por peça)",
+      "cuidados": "Limpar com pano levemente úmido. Não lavar em máquina de lavar louça. Manter fora de fontes de calor direto.",
+      "preco_label": "PLACEHOLDER — preço a definir",
+      "is_placeholder": true
+    },
+    {
+      "id": "ph-02",
+      "slug": "sequencia-associativa-modular",
+      "categoria": "aprendizagem",
+      "nome": "[PLACEHOLDER] Sequência Associativa Modular",
+      "resumo": "Peças combináveis para atividades de sequência, associação e organização de ideias.",
+      "descricao_longa": "Kit de peças que podem ser combinadas em diferentes ordens, pensado para apoiar atividades de sequenciamento, categorização e associação — recursos usados com frequência em contextos de aprendizagem estruturada.",
+      "finalidade": "Apoiar atividades educativas de sequência, associação e organização.",
+      "publico": "Uso geral — crianças em fase escolar, adolescentes e adultos em contexto educativo.",
+      "cores_disponiveis": [
+        "Azul",
+        "Grafite",
+        "Amarelo"
+      ],
+      "material": "PLA atóxico, impressão 3D",
+      "dimensoes": "Aprox. 20 × 8 × 2 cm (kit completo)",
+      "cuidados": "Limpar com pano seco ou levemente úmido. Guardar em local seco.",
+      "preco_label": "PLACEHOLDER — preço a definir",
+      "is_placeholder": true
+    },
+    {
+      "id": "ph-03",
+      "slug": "painel-atencao-visual",
+      "categoria": "estimulacao-cognitiva",
+      "nome": "[PLACEHOLDER] Painel de Atenção Visual",
+      "resumo": "Painel com elementos móveis para atividades de atenção, memória e resolução de sequência.",
+      "descricao_longa": "Painel com peças móveis e trocáveis, pensado para apoiar atividades de atenção sustentada, memória de curto prazo e resolução de pequenos desafios visuais — utilizável em rotinas educativas ou recreativas.",
+      "finalidade": "Apoiar atividades de estimulação cognitiva em contexto educativo ou recreativo.",
+      "publico": "Uso geral — todas as idades, conforme orientação de educadores ou familiares.",
+      "cores_disponiveis": [
+        "Azul petróleo",
+        "Cinza",
+        "Mostarda"
+      ],
+      "material": "PLA atóxico + base em madeira certificada",
+      "dimensoes": "Aprox. 30 × 20 × 2 cm",
+      "cuidados": "Limpar com pano seco. Evitar exposição prolongada ao sol.",
+      "preco_label": "PLACEHOLDER — preço a definir",
+      "is_placeholder": true
+    },
+    {
+      "id": "ph-04",
+      "slug": "esfera-tatil-multitextura",
+      "categoria": "sensorial",
+      "nome": "[PLACEHOLDER] Esfera Tátil Multitextura",
+      "resumo": "Esfera com diferentes texturas e resistências para exploração tátil livre.",
+      "descricao_longa": "Objeto manipulável com variações de textura e resistência ao toque, pensado para exploração sensorial livre — em casa, na escola ou em atividades orientadas por profissionais.",
+      "finalidade": "Apoiar experiências de exploração e resposta sensorial ao toque.",
+      "publico": "Uso geral — todas as idades.",
+      "cores_disponiveis": [
+        "Azul",
+        "Verde",
+        "Rosa",
+        "Amarelo"
+      ],
+      "material": "TPU flexível atóxico, impressão 3D",
+      "dimensoes": "Diâmetro aprox. 8 cm",
+      "cuidados": "Lavar com água morna e sabão neutro. Secar à sombra.",
+      "preco_label": "PLACEHOLDER — preço a definir",
+      "is_placeholder": true
+    },
+    {
+      "id": "ph-05",
+      "slug": "kit-utensilios-pega-adaptada",
+      "categoria": "autonomia-vida-diaria",
+      "nome": "[PLACEHOLDER] Kit de Utensílios com Pega Adaptada",
+      "resumo": "Utensílios do dia a dia com cabo ampliado, pensados para apoiar mais autonomia nas rotinas.",
+      "descricao_longa": "Conjunto de utensílios de uso diário com pega ampliada e ergonômica, desenvolvido para apoiar a realização independente de tarefas cotidianas por diferentes públicos, incluindo pessoas com dificuldades de preensão.",
+      "finalidade": "Apoiar autonomia em atividades da vida diária.",
+      "publico": "Adultos, idosos e demais públicos que se beneficiem de pegas ampliadas.",
+      "cores_disponiveis": [
+        "Grafite",
+        "Azul petróleo"
+      ],
+      "material": "PLA + TPU (pega emborrachada), impressão 3D",
+      "dimensoes": "Variável por peça do kit",
+      "cuidados": "Lavar à mão com água morna. Não lavar em máquina de lavar louça.",
+      "preco_label": "PLACEHOLDER — preço a definir",
+      "is_placeholder": true
+    },
+    {
+      "id": "ph-06",
+      "slug": "suporte-adaptado-modular",
+      "categoria": "acessibilidade-adaptacoes",
+      "nome": "[PLACEHOLDER] Suporte Adaptado Modular",
+      "resumo": "Suporte ajustável para adaptar objetos do dia a dia a diferentes necessidades de uso.",
+      "descricao_longa": "Peça modular pensada para adaptar o posicionamento ou o manuseio de objetos cotidianos, permitindo ajustes conforme a necessidade específica de cada pessoa ou contexto de uso.",
+      "finalidade": "Apoiar adaptações personalizadas de objetos e rotinas.",
+      "publico": "Uso geral, sob orientação quando aplicável a um contexto específico.",
+      "cores_disponiveis": [
+        "Grafite",
+        "Azul",
+        "Mostarda"
+      ],
+      "material": "PLA atóxico, impressão 3D",
+      "dimensoes": "Aprox. 15 × 10 × 6 cm",
+      "cuidados": "Limpar com pano levemente úmido.",
+      "preco_label": "PLACEHOLDER — preço a definir",
+      "is_placeholder": true
+    },
+    {
+      "id": "ph-07",
+      "slug": "conjunto-exercicio-manual-adulto",
+      "categoria": "adultos-idosos",
+      "nome": "[PLACEHOLDER] Conjunto de Exercício Manual",
+      "resumo": "Peças de manuseio pensadas para atividades de manutenção de habilidades manuais na vida adulta.",
+      "descricao_longa": "Conjunto de peças de diferentes formatos e resistências, pensado para atividades regulares de manuseio voltadas a adultos e idosos, com design discreto e sem estética infantilizada.",
+      "finalidade": "Apoiar atividades regulares de manuseio e prática motora na vida adulta.",
+      "publico": "Adultos e idosos.",
+      "cores_disponiveis": [
+        "Grafite",
+        "Azul petróleo",
+        "Mostarda"
+      ],
+      "material": "PLA atóxico, impressão 3D",
+      "dimensoes": "Aprox. 10 × 10 × 5 cm",
+      "cuidados": "Limpar com pano seco ou levemente úmido.",
+      "preco_label": "PLACEHOLDER — preço a definir",
+      "is_placeholder": true
+    }
+  ],
+  "site_url": "https://camjr1985.github.io/lume-website"
+}
