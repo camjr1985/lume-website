@@ -66,18 +66,18 @@
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "jogo-formas-geometricas",
@@ -104,18 +104,18 @@
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "regua-de-leitura",
@@ -149,18 +149,18 @@
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "adaptador-para-garfo",
@@ -180,18 +180,18 @@
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "numeros-e-aprendizagem",
@@ -225,18 +225,18 @@
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "quebra-cabecas",
@@ -270,18 +270,18 @@
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "dinossauros-de-equilibrio",
@@ -315,18 +315,18 @@
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "estojo-para-cartas",
@@ -360,18 +360,18 @@
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "fidget-azul",
@@ -383,33 +383,26 @@
       "imagens": [
         {
           "src": "assets/img/produtos/fidget-azul/01.webp",
-          "alt": "Fidget articulado azul — vista do produto",
-          "origem": "Produtos Oficiais\\fidget_toy_azul_1.jpeg",
-          "width": 960,
-          "height": 1280
-        },
-        {
-          "src": "assets/img/produtos/fidget-azul/02.webp",
-          "alt": "Fidget articulado azul — fotografia de detalhe 1",
-          "origem": "Produtos Oficiais\\fidget_toy_azul_2.jpeg",
-          "width": 960,
-          "height": 1280
+          "alt": "Fidget articulado azul — coleção oficial Lume",
+          "origem": "Produtos Oficiais_2\\Imagem 2.png",
+          "width": 1254,
+          "height": 1254
         }
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "fidget-estrela",
@@ -421,33 +414,26 @@
       "imagens": [
         {
           "src": "assets/img/produtos/fidget-estrela/01.webp",
-          "alt": "Fidget estrela — vista do produto",
-          "origem": "Produtos Oficiais\\estrela.jpeg",
-          "width": 960,
-          "height": 1280
-        },
-        {
-          "src": "assets/img/produtos/fidget-estrela/02.webp",
-          "alt": "Fidget estrela — fotografia de detalhe 1",
-          "origem": "Produtos Oficiais\\estrela 2.jpeg",
-          "width": 960,
-          "height": 1280
+          "alt": "Fidget estrela — coleção oficial Lume",
+          "origem": "Produtos Oficiais_2\\Imagem 2.png",
+          "width": 1254,
+          "height": 1254
         }
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "fidget-sanfona",
@@ -459,26 +445,26 @@
       "imagens": [
         {
           "src": "assets/img/produtos/fidget-sanfona/01.webp",
-          "alt": "Fidget sanfona — vista do produto",
-          "origem": "Produtos Oficiais\\fidget_toy_black_safona_1.jpeg",
-          "width": 960,
-          "height": 1280
+          "alt": "Fidget sanfona — coleção oficial Lume",
+          "origem": "Produtos Oficiais_2\\Imagem 2.png",
+          "width": 1254,
+          "height": 1254
         }
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "fidget-espiral-verde",
@@ -490,47 +476,26 @@
       "imagens": [
         {
           "src": "assets/img/produtos/fidget-espiral-verde/01.webp",
-          "alt": "Fidget espiral verde — vista do produto",
-          "origem": "Produtos Oficiais\\fidget_toy_verde_1.jpeg",
-          "width": 960,
-          "height": 1280
-        },
-        {
-          "src": "assets/img/produtos/fidget-espiral-verde/02.webp",
-          "alt": "Fidget espiral verde — fotografia de detalhe 1",
-          "origem": "Produtos Oficiais\\fidget_toy_verde_2.jpeg",
-          "width": 960,
-          "height": 1280
-        },
-        {
-          "src": "assets/img/produtos/fidget-espiral-verde/03.webp",
-          "alt": "Fidget espiral verde — fotografia de detalhe 2",
-          "origem": "Produtos Oficiais\\fidget_toy_verde_touch_1.jpeg",
-          "width": 960,
-          "height": 1280
-        },
-        {
-          "src": "assets/img/produtos/fidget-espiral-verde/04.webp",
-          "alt": "Fidget espiral verde — fotografia de detalhe 3",
-          "origem": "Produtos Oficiais\\fidget_toy_verde_touch_2.jpeg",
-          "width": 960,
-          "height": 1280
+          "alt": "Fidget espiral verde — coleção oficial Lume",
+          "origem": "Produtos Oficiais_2\\Imagem 2.png",
+          "width": 1254,
+          "height": 1254
         }
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "fidget-tatil-verde",
@@ -542,33 +507,26 @@
       "imagens": [
         {
           "src": "assets/img/produtos/fidget-tatil-verde/01.webp",
-          "alt": "Fidget tátil verde — vista do produto",
-          "origem": "Produtos Oficiais\\fidget_toy_verde_touch_1.jpeg",
-          "width": 960,
-          "height": 1280
-        },
-        {
-          "src": "assets/img/produtos/fidget-tatil-verde/02.webp",
-          "alt": "Fidget tátil verde — fotografia de detalhe 1",
-          "origem": "Produtos Oficiais\\fidget_toy_verde_touch_2.jpeg",
-          "width": 960,
-          "height": 1280
+          "alt": "Fidget tátil verde — coleção oficial Lume",
+          "origem": "Produtos Oficiais_2\\Imagem 2.png",
+          "width": 1254,
+          "height": 1254
         }
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "fidget-cavalo",
@@ -580,33 +538,26 @@
       "imagens": [
         {
           "src": "assets/img/produtos/fidget-cavalo/01.webp",
-          "alt": "Fidget cavalo — vista do produto",
-          "origem": "Produtos Oficiais\\fidget_toy_cavalo_1.jpeg",
-          "width": 960,
-          "height": 1280
-        },
-        {
-          "src": "assets/img/produtos/fidget-cavalo/02.webp",
-          "alt": "Fidget cavalo — fotografia de detalhe 1",
-          "origem": "Produtos Oficiais\\fidget_toy_cavalo_2.jpeg",
-          "width": 960,
-          "height": 1280
+          "alt": "Fidget cavalo — coleção oficial Lume",
+          "origem": "Produtos Oficiais_2\\Imagem 3.png",
+          "width": 1254,
+          "height": 1254
         }
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "fidget-cinza",
@@ -618,33 +569,26 @@
       "imagens": [
         {
           "src": "assets/img/produtos/fidget-cinza/01.webp",
-          "alt": "Fidget articulado cinzento — vista do produto",
-          "origem": "Produtos Oficiais\\fidget_toy_cinza_1.jpeg",
-          "width": 960,
-          "height": 1280
-        },
-        {
-          "src": "assets/img/produtos/fidget-cinza/02.webp",
-          "alt": "Fidget articulado cinzento — fotografia de detalhe 1",
-          "origem": "Produtos Oficiais\\fidget_toy_cinza_2.jpeg",
-          "width": 960,
-          "height": 1280
+          "alt": "Fidget articulado cinzento — coleção oficial Lume",
+          "origem": "Produtos Oficiais_2\\Imagem 3.png",
+          "width": 1254,
+          "height": 1254
         }
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     },
     {
       "id": "fidget-espiral-vermelho",
@@ -656,33 +600,26 @@
       "imagens": [
         {
           "src": "assets/img/produtos/fidget-espiral-vermelho/01.webp",
-          "alt": "Fidget espiral vermelho — vista do produto",
-          "origem": "Produtos Oficiais\\fidget_toy_espiral_vermelho_1.jpeg",
-          "width": 960,
-          "height": 1280
-        },
-        {
-          "src": "assets/img/produtos/fidget-espiral-vermelho/02.webp",
-          "alt": "Fidget espiral vermelho — fotografia de detalhe 1",
-          "origem": "Produtos Oficiais\\fidget_toy_espiral_vermelho_2.jpeg",
-          "width": 960,
-          "height": 1280
+          "alt": "Fidget espiral vermelho — coleção oficial Lume",
+          "origem": "Produtos Oficiais_2\\Imagem 3.png",
+          "width": 1254,
+          "height": 1254
         }
       ],
       "is_placeholder": false,
       "beneficios": [],
-      "finalidade": null,
-      "publico": null,
-      "material": null,
-      "dimensoes": null,
+      "finalidade": "A confirmar",
+      "publico": "A confirmar",
+      "material": "A confirmar",
+      "dimensoes": "A confirmar",
       "cores_disponiveis": [],
-      "cuidados": null,
+      "cuidados": "A confirmar",
       "preco": null,
       "preco_label": "Preço sob consulta",
-      "disponibilidade": null,
-      "stock": null,
-      "personalizacao": null,
-      "prazo_producao": null
+      "disponibilidade": "A confirmar",
+      "stock": "A confirmar",
+      "personalizacao": "A confirmar",
+      "prazo_producao": "A confirmar"
     }
   ],
   "rascunhos_originais": [
